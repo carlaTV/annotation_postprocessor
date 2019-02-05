@@ -6,9 +6,13 @@ def dict_test():
     except KeyError:
         print('Invalid Key. The possible keys are "transcription", "annotation" and "parser".')
 
+def conllu_parser():
+    line = '10	much	much	JJ	JJ	_	12	NMOD	12:NMOD	spos=JJ	'
+    print(line.split('\t'))
+
 
 def main():
-    print(dict_test.__name__)
+    conllu_parser()
 
 if __name__ == '__main__':
     main()
