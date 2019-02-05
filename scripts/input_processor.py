@@ -1,4 +1,4 @@
-from common_representation import ConlluManager, TxtManager
+import get_common_representation as cr
 
 
 class Annotation():
@@ -51,12 +51,13 @@ class Text():
             print('File not found. Review the input')
 
     def conllu_manager(self):
-        cg = ConlluManager()
+        self.common_representation = cr.CommonRepresentation()
+        cg = cr.ConlluManager(self.get_text(), self.common_representation)
         repr = cg.convert_from_conllu()
-        # return repr
+        return repr
 
     def txt_manager(self):
-        tm = TxtManager()
+        tm = cr.TxtManager()
         repr = tm.convert_from_txt()
         # return repr
 
@@ -74,11 +75,13 @@ class Annotator():
             self.name = 'parser'
 
 
+
+
 def main():
     file_num = input('Which file do you want to process?\nEnter a number: ')
     annotator1 = Annotator('Carla')
     text1 = Text('annotation', file_num, annotator1)
-    text1.txt_manager()
+    text1.conllu_manager()
     # annotation1 = Annotation(file_num, annotator1, text1)
     # annotation1.add_annotator_info()
     # text1 = annotation1.get_text_from_annotator()
