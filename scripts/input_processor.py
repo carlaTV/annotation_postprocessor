@@ -79,12 +79,13 @@ class Annotator():
 
 def main():
     file_num = input('Which file do you want to process?\nEnter a number: ')
+    file_type = input('Select a file to process: parser (conllu), annotation (annotated txt)'
+                      'or transcription (bare txt).\n'
+                      'Select a number: 1: parser, 2: annotation, 3: transcription \n')
+    file_type_conversor = {"1":"parser","2":"annotation","3":"transcription"}
     annotator1 = Annotator('Carla')
-    text1 = Text('annotation', file_num, annotator1)
+    text1 = Text(file_type_conversor[file_type], file_num, annotator1)
     text1.conllu_manager()
-    # annotation1 = Annotation(file_num, annotator1, text1)
-    # annotation1.add_annotator_info()
-    # text1 = annotation1.get_text_from_annotator()
 
 
 if __name__ == '__main__':
