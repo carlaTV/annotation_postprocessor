@@ -1,22 +1,54 @@
 """" get a common representation of all types of inputs"""
 
+import re
+import input_processor as ip
 
 class ConlluManager:
     """converts conllu to common representation """
     def __init__(self, text, common_representation):
         self.text = text
         self.common_representation = common_representation
-    def convert_from_conllu(self):
+    def get_common_representation_conllu(self):
         for line in self.text:
             for word in line.split(' '):
                 print(word)
 
-class TxtManager:
+class AnnotationManager:
     """converts txt to common representation"""
-    def __init__(self):
-        self.text = None
-    def convert_from_txt(self):
-        print('Function %s is still being built. Sorry :)' % (self.convert_from_txt.__name__))
+
+    def __init__(self, text, common_representation):
+        self.text = text
+        self.common_representation = common_representation
+        self.class_text = ip.Text()
+        self.file_processor = ip.FileManager(self.class_text)
+
+    def ensure_enumeration(self, line):
+        #check wether line is enumerated:
+        prop_counter = 0
+        if re.search('^\d*\.', line):
+            line = re.sub('^\d*\.', prop_counter, str(line))
+            prop_counter += 1
+            self.file_processor.write_content(line)
+        else:
+            self.file_processor.write_content(line)
+
+    def get_common_representation_annotation(self):
+        self.file_processor.write_opening('annotation','txt')
+        for line in self.text:
+            self.ensure_enumeration(line)
+            # for word in line.split(' '):
+            #     print(word)
+
+class TranscriptionManager:
+    """ Gets common representation from the transcription (bare txt)."""
+    def __init__(self, text, common_representation):
+        self.text = text
+        self.common_representation = common_representation
+
+    def get_common_representation_transcription(self):
+        for line in self.text:
+            for word in line.split(' '):
+                print(word)
 
 class CommonRepresentation:
     def __init__(self):
