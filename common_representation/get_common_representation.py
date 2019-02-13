@@ -1,7 +1,5 @@
 """" get a common representation of all types of inputs"""
-
 import re
-import input_processor as ip
 
 class ConlluManager:
     """converts conllu to common representation """
@@ -19,8 +17,8 @@ class AnnotationManager:
     def __init__(self, text, common_representation):
         self.text = text
         self.common_representation = common_representation
-        self.class_text = ip.Text()
-        self.file_processor = ip.FileManager(self.class_text)
+        # self.class_text = ip.Text()
+        # self.file_processor = ip.FileManager(self.class_text)
 
     def ensure_enumeration(self, line):
         #check wether line is enumerated:
