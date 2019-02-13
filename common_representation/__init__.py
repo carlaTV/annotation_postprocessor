@@ -1,2 +1,2 @@
-from .get_common_representation import *
-del get_common_representation
+from .common_representation import *
+del common_representation
