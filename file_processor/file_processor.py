@@ -1,11 +1,12 @@
 
 class FileManager:
-    def __init__(self, file_num):
+    def __init__(self, file_num, annotator_name):
         self.file_num = file_num
+        self.annotator_name = annotator_name
         self.filename = None
 
     def write_opening(self, title, extension):
-        self.filename = 'output/%s_%s.%s' % (self.file_num, title, extension)
+        self.filename = 'output/%s_%s_%s.%s' % (self.file_num ,title, self.annotator_name, extension)
         with open(self.filename, 'w') as f:
             f.write('')
 

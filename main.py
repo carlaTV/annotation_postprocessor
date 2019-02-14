@@ -9,7 +9,8 @@ def main():
         file_num = '0192'
     file_type = input('Select a file type to process:\n 1: "transcription", 2: "parser", 3: "annotation".\n')
     file_type_dict = {'1': 'transcription', '2': 'parser', '3': 'annotation'}
-    annotator1 = ip.Annotator('Carla')
+    annotator_name = input('What\'s your name?\n')
+    annotator1 = ip.Annotator(annotator_name)
     file_to_open = file_type_dict[file_type]
 
     # work with files

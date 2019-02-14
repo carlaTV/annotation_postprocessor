@@ -30,14 +30,23 @@ class Text():
         self.text_type = text_type  # transcription/annotation/parser
         self.file_num = file_num
         self.annotator = annotator
+        self.annotator_initials = {'Carla':'CTV', 'Monica':'MD'}
         # self.common_representation = cr.CommonRepresentation()
         self.text_content = None
+        self.initials = None
+
+    # @property
+    # def get_initials(self):
+    #     self.annotator_initials.update({'Carla':'CTV'})
+    #     self.annotator_initials.update({'Monica':'MD'})
+    #     return self.annotator_initials
 
     @property
     def get_path(self):
         try:
+            self.initials = self.annotator_initials[self.annotator.name]
             if self.text_type in ['transcription', 'annotation']:
-                self.path = 'input/%s_%s.txt' % (self.file_num, self.text_type)
+                self.path = 'input/%s_%s_%s.txt' % (self.file_num, self.text_type,self.initials)
             if self.text_type == 'parser':
                 self.path = 'input/%s_meta_test.conllu' % (self.file_num)
             return self.path
@@ -55,7 +64,7 @@ class Text():
             print('File not found. Review the input')
 
     def text_manager(self):
-        cg = cr.TextManager(self.get_text, self.text_type, self.file_num)
+        cg = cr.TextManager(self.get_text, self.text_type, self.file_num, self.annotator.name)
         cg.select_pipeline_from_text_type()
         # return representation
 
