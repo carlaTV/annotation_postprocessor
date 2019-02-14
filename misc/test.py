@@ -51,7 +51,7 @@ class ConlluToken:
 
 def main():
     tokens = []
-    with open('input/0192_meta_test.conllu', 'r') as f:
+    with open('input/0192_meta_test_CTV.conllu', 'r') as f:
         text = f.readlines()
         for num, line in enumerate(text):
             if num == 10:

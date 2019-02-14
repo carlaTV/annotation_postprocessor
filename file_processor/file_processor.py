@@ -6,7 +6,7 @@ class FileManager:
         self.filename = None
 
     def write_opening(self, title, extension):
-        self.filename = 'output/%s_%s_%s.%s' % (self.file_num ,title, self.annotator_name, extension)
+        self.filename = 'resources/output/%s_%s_%s.%s' % (self.file_num ,title, self.annotator_name, extension)
         with open(self.filename, 'w') as f:
             f.write('')
 
