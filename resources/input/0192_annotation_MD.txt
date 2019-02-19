@@ -1,0 +1,485 @@
+﻿1. [You]T1 ['ve all seen lots of articles on climate change]R1 , 
+[and]SP1 [here's yet another New York Times article , just like every other darn one 
+{[you]T1(P1.1) ['ve seen]R1(P1.1)}P1.1 ]R1 .
+1. [It]T1 [says all the same stuff as all the other ones 
+{[you]T1(P1.1) ['ve seen]R1(P1.1)}P1.1]R1 .
+1. [It]T1 [even has the same amount of headline as all the other ones 
+{[you]T1(P1.1) ['ve seen]R1(P1.1)}P1.1]R1 .
+1. [What's unusual]R1-1 [about this one]T1, [maybe]SP1 , [is 
+{[that]SP1(P1.1) [it]T1(P1.1) ['s from 1953]R1(P1.1) }P1.1]R1-2 .
+1. [And]SP1 [the reason 
+{[I]T1(P1.1) ['m saying this]R1(P1.1)}P1.1 ]T1
+[is that {[you]T1(P1.2) [may have the idea 
+{[this problem]T1(P1.2.1) [is relatively recent]R1(P1.2.1)}P1.2.1]R1(P1.2)}P1.2 . 
+{[That]SP1(P1.1) [people]T1(P1.2.2) [have just sort of figured out about it]R1(P1.2.2)}P1.2.2 , 
+{[and]SP1(P1.2.3) [now]SP2(P1.2.3) [[with]SP1(SP3) [Kyoto and the Governator and 
+[people]T1(P1.2.3.1) [beginning to actually do something]R1(P1.2.3.1)}P1.2.3.1]R1(SP3)]SP3(P1.2.3) , 
+[we]T1(P1.2.3) [may be on the road to a solution]R1(P1.2.3)}P1.2.3 ]R1.
+1. [The fact]T1 [is uh-uh]R1 .
+2. [We]T1 ['ve known about this problem for 50 years, depending on how you count it]R1 .
+3. [We]T1 [have talked about it endlessly over the last decade or so]R1 .
+4. [And]SP1 [we]T1 ['ve accomplished close to zip]R1 .
+5. [This]T1 [is the growth rate of CO2 in the atmosphere]R1 .
+6. [You]T1 ['ve seen this in various forms]R1 , 
+[but]SP1 [maybe]SP2 [you]T1 [haven't seen this one]R1 .
+1. [[What]R1-1(T1) [this]T1(T1) [shows]R1-2(T1)]T1 [is 
+{[that]SP1(P1.1) [the rate of growth of our emissions]T1(P1.1) [is accelerating]R1(P1.1) }P1.1 . 
+{[And]SP1(P1.2) [that]SP2(P1.2) [it]T1(P1.2) ['s accelerating even faster than 
+{[[what]R1-1(T1) [we]T1(T1) [thought]R1-2(T1)]T1(P1.2.1) [was the worst case just a few years back]R1(P1.2.1)}P1.2.1]R1(P1.2)}P1.2]R1 .
+1. [So]SP1 [that red line there]T1 [was something 
+{[that]SP1(P1.1) [a lot of skeptics]T1(P1.1) [said
+{[the environmentalists]T1(P1.1.1) [only put in the projections to make the projections look as bad as possible]R1(P1.1.1)}P1.1.1
+{[that]SP1(P1.1.2) [emissions]T1(P1.1.2) [would never grow as fast as that red line]R1(P1.1.2)]R1(P1.1.2)}P1.1.2]R1(P1.1)}P1.1 ] R1 . 
+1. [But]SP1 [in fact]SP2 , [they]T1 ['re growing faster]R1 .
+2. [Here's some data from actually just 10 days ago, 
+{[which]T1(P1.1) [shows {[this year's minimum of the Arctic Sea ice]R1(P1.1.1)}P1.1.1 ,
+{[and]SP1(P1.1.2) [it]T1(P1.1.2) ['s the lowest by far]R1(P1.1.2)}P1.1.2 ]R1(P1.1)}P1.1]R1 .
+1. [And]SP1 [the rate
+{[at which]R1-1(P1.1) [the Arctic Sea ice]T1(P1.1) [is going away]R1-2(P1.1) }P1.1 ]T1
+[is a lot quicker than models]R1 .
+1. [So]SP1 [[despite]SP1(T1) 
+{[all sorts of experts like me]T1(P1.1) [flying around the planet and burning jet fuel]R1(P1.1)}P1.1(T1) , 
+{[and]SP1(P1.2) [politicians]T1(P1.2) [signing treaties]R1(P1.2)}P1.2(T1) ]T1 
+[in fact]SP2 ,[{[you]T1(R1) [could argue 
+[{[the net effect of all this]T1(P2) [has been negative]R1(P2) }P2]T1(R1) , 
+[{[because]SP1(P3) [it]T1(P3) ['s just consumed a lot of jet fuel]R1(P3)}P3 ]R1(R1)]R1 .
+1. [No, no!]R1 
+2. [{[In terms of]SP1(T1) [what]R1-1(R1) [we]T1(R1) [really need to do to put the brakes on this very high inertial thing our big economy]R1(T1)}P2 ]T1
+[{[we]T1(R1) ['ve really hardly started]R1(R1)}P3 ]R1 . 
+1. [Really]SP1 , [we]T1 ['re doing this, basically]R1 . 
+2. [Really]SP1 , [not very much]R1 .
+3. [I]T1 [don't want to depress you too much]R1 .
+4. [The problem]T1 [is absolutely soluble, and even soluble in a way 
+{[that]T1(P1.1) ['s reasonably cheap]R1(P1.1)}P1.1]R1 .
+1. [Cheap]T1 [meaning sort of the cost of the military, not the cost of medical care]R1 .
+2. [Cheap]T1 [meaning a few percent of GDP]R1 .
+3. {[No]R1}P2 , 
+{[[this]T1(R1) [is really important]R1(R1)]R1 [to have this sense of scale]T1}P3.
+1. {[So]SP1 [the problem]T1 [is soluble]R1}P2 , 
+{[and]SP1 [the way
+ {[we]T1(P3.1) [should go about solving it]R1(P3.1)}P3.1 ]T1
+[is]R1-1 , [say]SP2, [dealing with electricity production, 
+{[which]T1(P3.2) [causes something like 43-or-so percent]R1(P3.2)}P3.2
+and rising of CO2 emissions]R1-2}P3 .
+1. [And]SP1 [we]T1 [could do that by perfectly sensible things like conservation, and wind power, nuclear power and coal to CO2 capture, 
+{[[which]T1(P1.1) [are all things
+{[that]T1(P1.1.1) [are ready for giant scale deployment, and work]R1(P1.1.1)}P1.1.1]R1(P1.1)}P1.1 ]R1 .
+1. [All]R1-1 [we]T1 [lack is the action to actually spend the money to put those into place]R1 .
+2. [Instead]SP1 , [we]T1 [spend our time talking]R1 .
+3. [But]SP1 [nevertheless]SP2 , [that]T1 ['s not [what]R1-1(R1) [I]T1(R1) ['m going to talk to you about tonight]R1-2(R1)]R1 .
+4. [[What]R1-1(T1) [I]T1(T1) ['m going to talk to you about tonight]R1-2(T1)]T1 
+[is stuff
+[{[we]T1(1.1) [might do]R1(1.1)}P1.1]T1(R1) 
+[{[if]SP1(1.2) [we]T1(P1.2) [did nothing]R1(P1.2)}P1.2]R1(R1)]R1 .
+1. [And]SP1 [it's]R1-1 [this stuff in the middle here]T1 , 
+[which is 
+[[what]R1-1(T1) [you]T1(T1) [do]R1(T1)]T1(R1-2)
+[[if]SP1(R1) [you]T1(R1) [don't stop the emissions quickly enough]R1(R1)]R1(R1-2)]R1-2 .
+1. {[And]SP1 [you need to deal somehow]R1/TR}P2/TR
+{[break the link between human actions 
+{[that]T1(P3.1) [change climate]R1(P3.1)}P3.1 , 
+and the climate change itself]R1}P3/TR .
+1. [And]SP1 [{[[that]T1(T1) ['s particularly important]R1(T1)}P2]T1 
+[{[because]SP1(R1) , [of course]SP2(R1) , 
+[{[while]SP1(P4) [we]T1(P4) [can adapt to climate change]R1(P4)}P4]T1(R1) 
+[{[and]SP1(P5) [it's important]R1(P5) [to be honest here]T1(P5)}P5]SP3(R1) , 
+[there will be some benefits to climate change]R1(R1)}P3]R1 .
+1. [Oh]SP1 , [yes]SP2 , [I]T1 [think 
+{[it]T1(P1.1) ['s bad]R1(P1.1)}P1.1]R1. 
+1. [I]T1 ['ve spent my whole life working to stop it]R1.
+2. [But]SP1 [one of the reasons
+{[it]T1(P1.1) ['s politically hard]R1(P1.1)}P1.1]T1 
+[is 
+{[there are winners and losers not all losers]R1(P1.2)}P1.2]R1.
+1. {[But]SP1, [of course]SP2, [the natural world, polar bears]T1}P1/TR 
+2. [I]T1 [spent time skiing across the sea ice for weeks at a time in the high Arctic]R1 .
+3. [They]T1 [will completely lose]R1.
+4. [And]SP1 [there's no adaption]R1.
+5. [So]SP1 [this problem]T1 [is absolutely soluble]R1 .
+6. [This geo-engineering idea, in its simplest form]T1 , [is basically the following]R1 .
+7. [You could put signed particles, say sulfuric acid particles sulfates into the upper atmosphere, the stratosphere , 
+{[where]R1-1(P1.1) [they]T1(P1.1) ['d reflect away sunlight and cool the planet]R1-2(P1.1)}P1.1]R1 .
+1. [And]SP1 [I]T1 [know for certain 
+{[that]SP1(P1.1) [that]T1(P1.1) [will work]R1(P1.1)}P1.1]R1 .
+{[Not that]SP1(P1.2) [there aren't side effects]R1}P1.2 , 
+[but]SP1 [I]T1 [know for certain 
+{[it]T1(2.1) [will work]R1(P2.1)}P2.1 .
+1. [And]SP1 [the reason]T1 [is, 
+{[it]T1(P1.1) ['s been done]R1(P1.1)}P1.1 .
+{[And]SP1(P1.2) [it]T1[(P1.2) [was done not by us, not by me, but by nature]R1(P1.2)}P1.2 ]R1 . 
+1. [Here's Mount Pinatubo in the early '90s . 
+[{[That]T1(P1.1) [put a whole bunch of sulfur in the stratosphere with a sort of atomic bomb-like cloud]R1(P1.1)}P1.1]R1 .
+1. [The result of that]T1 [was pretty dramatic] R1.
+2. [After that , and some previous volcanoes 
+{[we have]R1(P1.1)}P1.1]SP1 , 
+[you see a quite dramatic cooling of the atmosphere]R1 .
+1. [So]SP1 {[this lower bar]T1 [is the upper atmosphere, the stratosphere]R1}P2 , 
+{[and]SP1 [it]T1 [heats up after these volcanoes]R1}P3 .
+1. [But]SP1 [you]T1 ['ll notice 
+{[that]SP1(P1.1) [in the upper bar, 
+{[which]T1(P1.1.1) [is the lower atmosphere and the surface]R1(P1.1.1)}P1.1.1]SP2(P1.1) ,
+[it]T1(P1.1) [cools down]R1(P1.1)}P1.1]T1(P1.1) 
+[{[because]SP1(P1.2) [we]T1(P1.2) [shielded the atmosphere a little bit]R1(P1.2)}P1.2]R1(P1.1)]R1 .
+1. [There's no big mystery about it]R1 .
+2. [There's lots of mystery in the details]R1 , 
+[and]SP1 [there's some bad side effects , 
+{[like]SP1(P2) [it]T1(P2) [partially destroys the ozone layer]R1(P2)}P2 ]R1
+[and]SP1 [I]T1 ['ll get to that in a minute]R1 .
+1. [But]SP1 [it]T1 [clearly cools down]R1 .
+2. [And]SP1 [one other thing]T1 : 
+[[it]T1(R1) ['s fast]R1(R1)]R1 .
+1. [It's really important to say]R1 . 
+2. [{[So much of the other things 
+{[that]T1(P2.1) [we ought to do]R1(P2.1)}P2.1, like slowing emissions]T1(P2) , 
+[are intrinsically slow]R1(P2)}P2]T1, 
+[{[because]SP1(P3) [it takes time to build all 
+{[the hardware]T1(P3.1) [we need to reduce emissions]R1(P3.1)}P3.1]R1(P3)}P3]R1.
+1. [And]SP1 [not only that]SP2 , [{[when]SP1(P2) [you cut emissions]R1(P2)}P2]SP3 , 
+[{[you don't cut concentrations]R1(P3)}P3]T1 , 
+[{[because]SP1(P4) [concentrations, the amount of CO2 in the air]T1(P4) , [is the sum of emissions over time]R1(P4)}P4]R1 .
+1. [So]SP1 [you can't step on the brakes very quickly]R1 .
+2. [But]SP1 [{[if]SP1(P2) [you do this]R1(P2)}P2]T1 , 
+[{[it's quick]R1}P3] R1.
+1. [And]SP1 [there are times]SP2 
+[you might like to do something quick]R1.
+1. [[Another thing]T1(T1) [you might wonder about]R1(T1) ]T1
+[ is, 
+{[does it work?]R1(P2)}P2]R1
+1. [{[Can you shade]R1(P2) [some sunlight]T1(P2)}P2] T1
+[{and effectively compensate for the added CO2}P3] R1, 
+[{and produce a climate sort of 
+back to what it was originally?}P4]R2
+1. [And]SP1 [the answer]T1 [seems to be yes]R1 .
+2. [So]SP1 [here are]R1 [the graphs 
+{[you]T1(P1.1) ['ve seen lots of times before]R1(P1.1)}P1.1]T1 .
+1. [That]T1 ['s 
+[{[what]R1-1(P1.1) [the world]T1(P1.1) [looks like, under [one particular climate model's view]T1(R1), [with twice the amount of CO2 in the air]R1(R1)]R1(P1.1)}P1.1]R1.
+1. [{[The lower graph]T1(P2) [is with twice the amount of CO2 and 1.8 percent less sunlight]R1(P2)}P2]T1, 
+[{[and]SP1(P3) [you're back to the original climate]R1(P3)}P3]R1.
+1. [And]SP1 [{[this graph from Ken Caldeira]T1 }P2/TR .  
+{[It's important]T1 [to say]R1}P3 
+{[came]R1}P2/TR]T1 , 
+[{[because]SP1(P4) [Ken at a meeting 
+{[that]T1(P4.1) [I believe 
+{[Marty Hoffart]T1(4.1.1) [was also at]R1(P4.1.1)}P4.1.1]R1(P4.1)}P4.1 
+in the mid-'90s]T1(P4)/TR
+[Ken and I]T1(P4) [stood up at the back of the meeting and said, 
+[[Geo-engineering]T1(P4.1) [won't work]R1(P4.1)}P4.1]R1(P4)}P4]R1.
+1. [And]SP1 [to the person 
+{[who was promoting]R1(P1.1) [it]T1(P1.1)}P1.1 
+said]SP2, 
+[The atmosphere]T1 ['s much more complicated]R1.
+1. [Gave a bunch of physical reasons why 
+{[it]T1(P1.1) [wouldn't do a very good compensation]R1(P1.1)}P1.1]R1 .
+1. {[Ken]T1 [went and ran his models]R1}P2 , 
+{[and]SP1 [found 
+{[that]SP1 [it]T1(P3.1) [did]R1(P3.1)}P3.1]R1}P3 .
+1. [This topic]T1 [is also old]R1 .
+2. {[That report 
+{[that]T1(P1.1) [landed on President Johnson's desk 
+{[when]SP1(P1.1.1) [I]T1(P1.1.1) [was two years old 1965]R1(P1.1.1)}P1.1.1]R1(P1.1)]T1}P1/TR .
+1. {[That report]T1-1 , [in fact]SP1 , 
+[{[which]T1(P2.1) [had all the modern climate science]R1(P2.1)}P2.1]T1-2}P2/TR 
+{[the only thing 
+{[they]T1(P3.1) [talked about doing]R1(P3-1)}P3.1 was]R1(P3) [geo-engineering]T1(P3)}P3 .
+1. [It]T1 [didn't even talk about cutting emissions, 
+{[which]T1(P1.1) [is an incredible shift in our thinking about this problem]R1(P1.1)}P1.1]R1 .
+1. [[I]T1 ['m not saying 
+{[we]T1(P1.1) [shouldn't cut emissions]R1(P1.1)]R1 .
+1. {[We]T1 [should]R1}P2 , 
+{[but]SP1 [it made exactly]R1 [this point]T1}P3.
+1. [So]SP1 , [in a sense]SP2 , [there's not much new]R1 .
+2. [The one new thing]T1 [is this essay]R1.
+3. [So]SP1 [I]T1 [should say]R1-1 , 
+[I guess]SP2 , 
+[{[that]SP1(P1.1) [since the time of that original President Johnson report, and the various reports of the US National Academy 1977, 1982, 1990]SP2(P1.1)  
+[people]T1(P1.1) [always talked about this idea . Not as something 
+{[that]T1(P1.1.1) [was foolproof]R1(P1.1.1)}P1.1.1, 
+but as an idea to think about]R1(P1-1)}P1.1]R1-2 .
+1. [But]SP1 [{[when]SP1(P2) [climate]T1(P2) [became, politically, a hot topic]R1-1(P2)
+[{[if]SP1(P3) [I]T1(P3) [may make the pun]R1(P3)}P3]SP3
+[in the last 15 years]R1-2(P2)}P2]SP2  ,
+[this]T1 [became so un-PC, 
+{[we]T1(P1.2) [couldn't talk about it]R1(P1.2)}P1.2]R1 .
+1. [It]T1 [just sunk below the surface]R1 .  
+2. [We]T1 [weren't allowed to speak about it]R1 .
+3. [But]SP1 [in the last year]SP2 , [Paul Crutzen]T1 [published [this essay]T1(R1) [saying roughly 
+[{[what's all been said before}P1.1]T1(R1(R1)): 
+[that]SP1(R1(R1)) [maybe]SP2(R1(R1)), [given our very slow rate of progress in solving this problem and the uncertain impacts]SP3(R1(R1)), 
+{[we]T1(P1.2) [should think about things like this]R1(P1.2)}P1.2]R1(R1(R1)) ]R1(R1)]R1 .
+1. [He]T1 [said roughly 
+{[what's been said before]R1(P1.1)}P1.1]R1 .
+1. [The big deal]T1 [was 
+{[he]T1(P1.1) [happened to have won the Nobel prize for ozone chemistry]R1(P1.1)}P1.1]R1 .
+1. [And]SP1 [so]SP2 [people]T1 [took him seriously 
+{[when]SP1(P1.1) [he]T1(P1.1) [said 
+{[we]T1(P1.1.1) [should think about this]R1(P1.1.1)}P1.1.1 , 
+[{[even though]SP1(P1.1.2) [there will be some ozone impacts]R1(P1.1.2)}P1.1.2]SP1(P1.1.1)]R1(P1.1)}P1.1]R1 .
+1. [And]SP1 [in fact]SP2 , [he]T1 [had some ideas to make them go away]R1.
+2. [There was all sorts of press coverage, all over the world, "going right down to ""Dr Strangelove Saves the Earth,"" from the Economist."]R1
+3. [And]SP1 [that]T1 [got me thinking]R1 . 
+4. [I]T1 ['ve worked on this topic on and off , but not so much technically]R1. 
+5. [And]SP1 [I]T1 [was actually lying in bed thinking one night]R1.
+6. [And]SP1 [I]T1 [thought about this child's toy hence, the title of my talk]R1 
+[and]SP1 [I]T1 [wondered 
+{[if]SP1(P3.1) [you could use the same physics 
+{[that]T1(P3.1.1) [[makes that thing spin 'round in the child's radiometer]R1(P3.1.1)}P3.1.1, 
+[[to levitate]R1-1(R1) [particles]T1(R1) [into the upper atmosphere 
+and make them stay there]R1-2(R1)]R1(P3.1)}P3.1]R1 .
+1. [One of the problems with sulfates]T1 [is 
+{[they]T1(P1.1) [fall out quickly]R1(P1.1)]R1 .
+1. [{[The other problem]T1(T1) [is 
+{[they]T1(P2.1) ['re right in the ozone layer]R1(P2.1)}P2.1]R1(T1)}P2]T1, 
+[{[and]SP1(R1) [I]T1(R1) ['d prefer them above the ozone layer]R1(R1)}P3]R1 .
+1. [And]SP1 [{[it turns out]R1(SP2)}P2]SP2 , 
+{[I]T1 [woke up the next morning]R1}P3 , 
+{[and]SP1 [I]T1 [started to calculate this]R1}P4 .
+1. [It was very hard]R1 [to calculate from first principles]T1. 
+2. [I]T1 [was stumped]R1 .
+3. [But then]SP1 [I]T1 [found out 
+[{[that]SP1(P1.1) [there were all sorts of papers already published 
+{[that]T1(P1.1.1) [addressed this topic]R1(P1.1.1)}P1.1.1]R1(P1.1)}P1.1]T1(R1) 
+[{[because]SP1(P1.2) [it]T1(P1.2) [happens already in the natural atmosphere]R1(P1.2)}P1.2]R1(R1)]R1 .
+1. [So]SP1 [it seems]SP2 
+[there are already fine particles 
+{[that]T1(P1.1) [are levitated up to 
+{[what]R1-1 [we]T1 [call the mesosphere]R1-2}P1.1.1, 
+about 100 kilometers up]R1(P1.1)}P1.1, 
+{[that]T1(P1.2) [already have this effect]R1(P1.2)}P1.2]R1 .
+1. [[I]T1(T1) ['ll tell you very quickly]R1(T1)]T1 [[how]SP1(R1) [the effect]T1(R1) [works]R1(R1)]R1 .
+2. [There are a lot of fun complexities 
+{[that]T1(P1.1) [I 'd love to spend the whole evening on]R1(P1.1)}P1.1 , 
+{[but]SP1(P1.2) [I]T1(P1.2) [won't]R1(P1.2)}P1.2]R1 .
+1. [But]SP1 [let's say]SP2 
+[{[you have [sunlight]T1(R1(T1)) [hitting some particle]R1(R1(T1))]R1(T1)}P2]T1 
+[{[and]SP1 [it]T1(R1) ['s unevenly heated]R1(R1)}P3]R1 .
+1. "[So]SP1 {[[the side]T1(T1) [facing the sun]R1(T1)]T1 [is warmer]R1}P2; 
+{[the side away]T1 , [cooler]R1}P3 ."
+1. [{[Gas molecules 
+{[that]T1(P2.1) [bounce off the warm side]R1(P2.1)}P2.1]T1(T1) 
+[bounce away with some extra velocity]R1(T1)}P2]T1 
+[{[because]SP1(R1) [it's warm]R1(R1)}P3]R1.
+1. [And so]SP1 [you see a net force away from the sun]R1 .
+2. [That]T1 ['s called the photophoretic force]R1 .
+3. [There are a bunch of other versions of it 
+{[that]R1-2(P1.1) [I and some collaborators]T1(P1.1) [have thought about 
+{[how to exploit]R1}P1.1.1]R1-2(P1.1)}P1.1]R1 .
+1. {[And]SP1 [of course]SP2 , [we]T1 [may be wrong]R1}P2 
+{[this]T1 [hasn't all been peer reviewed]R1}P3, 
+{[we]T1 ['re in the middle of thinking about it]R1}P4 
+{[but]SP1 [so far]SP2, [it]T1 [seems good]R1}P5 .
+1. [But]SP1 [it looks like]SP2 
+[{[we]T1(T1) [could achieve long atmospheric lifetimes much longer than before]R1(T1)}P2]T1 
+[{[because]SP1(R1) [they]T1(R1) ['re levitated]R1(R1)]R1 .
+1. [We can move things out of the stratosphere into the mesosphere, in principle solving the ozone problem]R1 .
+2. [I]T1 ['m sure 
+{there will be other problems 
+{[that]T1(P1.1.1) [arise]R1(P1.1.1)}P1.1.1}P1.1]R1 .
+1. [Finally]SP1 , [we]T1 [could make the particles migrate to over the poles]R1, 
+[so]SP1 [we]T1 [could arrange the climate engineering]R1 
+[so]SP1 [it]T1 [really focused on the poles. 
+{[Which]T1(P4.1) [would have minimal bad impacts in the middle of the planet, 
+{where we live}P4.1.1]R1(P4.1)}P4.1, 
+{[and]SP1(P4.2) [do the maximum job of 
+[{[what]R1-1(P4.2.1) [we]T1(P4.2.1) [might need to do]R1-2(P4.2.1)}P4.2.1]T1(R1), 
+[{which is cooling the poles in case of planetary emergency}P4.2.2]R1(R1), 
+[{if you like}]SP1(R1)]R1(P4.2)}P4.2]R1 .
+1. [This]T1 [is a new idea 
+{[that]T1(P1.1) ['s crept up]R1(P1.1)}P1.1 
+{[that]T1(P1.2) [may be, essentially, a cleverer idea than putting sulfates in]R1(P1.2)}P1.2]R1 .
+1. [Whether this idea is right]SP1 
+[or some other idea is right]SP2, 
+[I think]SP3 
+{[it's almost certain]T1(P2) 
+[[we]T1(R1) [will eventually think of cleverer things to do than just putting sulfur in]R1(R1)]R1(P2)}P2. 
+{[[That if]SP1(SP1(SP1) [engineers and scientists]T1(SP1) [really turned their minds to this]R1(SP1)]SP1(P3) , 
+[it's amazing]T1(P3) 
+[[how]R1-1(R1) [we]T1(R1) [can affect the planet]R1-2(R1)]R1(P3)}P3.
+1. [The one thing about this]T1 [is 
+{[it]T1(P1.1) [[gives us]T1(R1) [extraordinary leverage]R1(R1)]R1(P1.1)}P1.1]R1.
+1. [{[This improved science and engineering]T1(T1) [will, 
+{[whether]SP1(P2.1) [we]T1(P2.1) [like it or not]R1(P2.1)}P2.1 , 
+[give us]T1(R1(T1) [more and more 
+[leverage]T1(R1(R1(T1) [to affect the planet, to control the planet, 
+[to give us]T1(R1(R1(R1(T1)))) [weather and climate control]R1(R1(R1(R1(T1)]R1(R1(R1(T1)]R1(R1(T1)]R1(T1)}P2 ]T1 
+[{[not]SP1(P3) [because]SP2(P3) [we]T1(P3) [plan it]R1(P3) }P3,
+[{[not]SP1(P4) [because]SP2(P4) [we]T1(P4) [want it]R1(P4)}P4 , 
+[{[just]SP1(P5) [because]SP2(P5) [science]T1(P5) [delivers it to us bit by bit]R1(P5), [with better knowledge of the way 
+{[the system]T1(P5.1) [works]R1(P5.1)}P5.1 
+and [better engineering tools]T1(SP3) [to effect it]R1(SP3)]SP3}P5]R1 .
+1. [Now]SP1 , [suppose 
+{[that]SP1 [space aliens]T1 [arrived]R1}P1.1]R1.
+1. [Maybe]SP1 [they]T1 ['re going to land at the UN headquarters down the road here]R1 , 
+[or]SP1 [maybe]SP2 [they]T1 ['ll pick a smarter spot]R1 
+[but]SP1 [suppose 
+{[they]T1(P1.1) [arrive]R1(P1.2)}P1.1 
+{[and]SP1(P1.2) [they]T1(P1.2) [give you a box]R1(P1.2)}P1.2]R1 .
+1. [And]SP1 [the box]T1 [has two knobs]R1 .
+2. [One knob]T1 [is 
+[the knob]T1(R1) [for controlling global temperature]R1(R1)]R1 .
+1. [Maybe]SP1 [another knob]T1 [is 
+[a knob]T1(R1) [for controlling CO2 concentrations]R1(R1)]R1.
+1. [You]T1 [might imagine
+[{[that]SP1(T1) [we]T1(T1) [would fight wars over that box]R1(T1)}P2]T1 . 
+[{[Because]SP1(R1) [we]T1(R1) [have no way to agree about 
+{[where to set]R1(P3.1) [the knobs]T1(P3.1)}P3.1]R1(R1)}P3]R1.
+1. [We]T1 [have no global governance]R1 .
+2. [And]SP1 [different people]T1 [will have different places 
+{[they]T1(P1.1) [want it set]R1(P1.1)}P1.1]R1.
+1. [Now]SP1 , [I]T1 [don't think
+{[that]T1(P1.1) ['s going to happen]R1(P1.1)}P1.1]R1. 
+1. [It]T1 ['s not very likely]R1 .
+2. [But]SP1 [we]T1 ['re building that box]R1 .
+3. [The scientists and engineers of the world]T1 [are building it piece by piece, in their labs]R1 .
+4. [Even]SP1 [when]SP2 [they]T1 ['re doing it for other reasons]R1 .
+5. [Even]SP1 [when]SP2 [they]T1 '[re thinking
+[they]T1(P1.1) ['re just working on protecting the environment]R1(P1.1)}P1.1]R1 .
+1. [They]T1 [have no interest in crazy ideas like engineering the whole planet]R1 .
+2. [They]T1 [develop science 
+{[that]T1(P1.1) [makes it easier and easier to do]R1(P1.1)}P1.1]R1 .
+1. [And so]SP1 [I guess]SP2 {[my view on this]T1(P2) [is 
+[{[not]SP1(P2.1) [that]SP2(P2.1) [I]T1(P2.1) [want to do it]R1(P2.1)}P2.1]SP1(R1) 
+[{[I]T1(P2.2) [do not]R1(P2.2)}P2.2]SP2(R1)
+[{[but]SP1(P2.3) [that]SP2(P2.3) [we]T1(P2.3) [should move this out of the shadows and talk about it seriously]R1(P2.3)}P2.3]T1(R1). 
+[{[Because]SP1(P2.4) [sooner or later]SP2(P2.4) , [we]T1(P2.4) ['ll be confronted with decisions about this]R1(P2.4)}P2.4]R1(R1)]R1(P2) }P2, 
+{[and]SP1(P3) [it's better]T1(P3) 
+[{[if]SP1(P3.1) [we]T1(P3.1) [think hard about it]R1(P3.1)}P3.1 . 
+{[even]SP1(P3.2) [if]SP2(P3.2) [we]T1(P3.2) [want to think hard about reasons 
+{[why]R1-1(P3.2.1) [we]T1(P3.2.1) [should never do it]R1(P3.2.1)}P3.2.1]R1(P3.2)}P3.2 ]R1(P3)}P3 . 
+1. [I]T1 ['ll [give you]T1(R1) [two different ways to think about this problem 
+{[that]T1(P1.1) [are the beginning of my thinking about how to think about it]R1(P1.1)}P1.1]R1(R1)]R1.
+1. [But]SP1 [[what]R1-2(T1) [we]T1(T1) [need]R1(T1)]T1 [is not just [a few oddballs like me]T1(R1) [thinking about this]R1(R1)]R1 .
+2. [We]T1 [need a broader debate]R1 .
+3. [A debate 
+{[that]T1(P1.1) [involves musicians, scientists, philosophers, writers, 
+{[who]T1(P1.1.1) [get engaged with this question about climate engineering]R1(P1.1.1)}P1.1.1 
+{[and]SP1(P1.1.2) [think seriously about 
+{[what]R1-1 [its implications]T1 [are]R1-2}P1.1.2.1]R1(P1.1.2)}P1.1.2]R1(P1.1)}P1.1]R1 .
+1. [So]SP1 [here's one way to think about it]T1 , 
+[which is that 
+[{[we]T1(T1(R1)) [just do this instead of cutting emissions]R1(T1(R1))}P2]T1(R1) 
+[{[because]SP1(R1(R1)) [it]T1(R1(R1)) ['s cheaper]R1(R1(R1))}P3]R1(R1)]R1 .
+1. [I guess]SP1 [the thing 
+{[I]T1(P1.1) [haven't said about this]R1(P1.1}P1.1]T1 
+[is, 
+{[it]T1(P1.2) [is absurdly cheap]R1(P1.2)}P1.2]R1 .
+1. [It's conceivable that]SP1 , 
+[say]SP2 , [using the sulfates method or this method 
+{[I]T1(P1.1) ['ve come up with]R1(P1.1)}P1.1]SP3 , 
+[you could create an ice age at a cost of .001 percent of GDP]R1 .
+1. [It]T1 ['s very cheap]R1 . 
+2. [We]T1 [have a lot of leverage]R1 .
+3. {[It]T1 ['s not a good idea]R1}P2 , 
+{[but]SP1 [it]T1 ['s just important]R1}P3 .
+1. {[I]T1 ['ll [tell you]T1(R1) 
+[{[how big]R1-1(P1.1) [the lever]T1(P1.1) [is]R1-2(P1.1)}P1.1]R1(R1)]R1}P2 : 
+{[the lever]T1 [is that big]R1}P3 .
+1. [And]SP1 [that calculation]T1 [isn't much in dispute]R1 .
+2. {[You]T1 [might argue about the sanity of it]R1}P2 , 
+{[but]SP1 [the leverage]T1 [is real]R1}P3 .
+1. [So]SP1 [because of this]SP2 , [we]T1 [could [deal with the problem]T1(R1) [simply by stopping reducing emissions]R1(R1)]R1 , 
+[and]SP1 [just as the concentrations go up]SP2 , [we]T1 [can increase the amount of geo-engineering]R1 .
+1. [{[I]T1(P2) [don't think anybody takes that seriously]R1(P2)}P2]T1.
+[{[Because]SP1(P3) [under this scenario]SP2(P3) , [we]T1(P3) [walk further and further away from the current climate]R1(P3)}P3]R1.
+1. [We]T1 [have all sorts of other problems, like ocean acidification 
+{[that]T1(P1.1) [come from CO2 in the atmosphere, anyway]R1(P1.1)}P1.1]R1.
+1. [Nobody but maybe one or two very odd folks]T1 [really suggest this]R1 .
+2. [But]SP1 [here's a case 
+{[which]T1(P1.1) [is harder to reject]R1(P1.1)}P1.1]R1.
+1. [Let's say that]SP1 
+[we]T1 [don't do geo-engineering]R1, 
+[we]T1 [do 
+{[what]R1-1(P1.1) [we]T1(P1.1) [ought to do]R1(P1.1)}P1.1 , 
+{[which is]T1(P1.1) [get serious about cutting emissions]R1(P1.1)}P1.1]R1 .
+1. [But]SP1 [{[we]T1(P2) [don't really know]R1(P2)}P2]T1 
+[{[how quickly]T1(P3) [we have to cut them]R1(P3)}P3]R1 .
+1. [There's a lot of uncertainty about exactly how much climate change is too much]R1.
+2. {[So]SP1 [let's say that]SP2 
+[we]T1 [work hard]R1}P2, 
+{[and]SP1 [we]T1 [actually don't just tap the brakes]R1}P3 , 
+{[but]SP1 [we]T1 [step hard on the brakes and really reduce emissions and eventually reduce concentrations]R1}P4 .
+1. [And]SP1 [maybe]SP2 [someday like 2075, October 23]SP3 [we]T1 [finally reach that glorious day 
+{[where]R1-2(P1.1) [concentrations]T1(P1.1) [have peaked 
+and are rolling down the other side]R1(P1.1)}P1.1]R1 .
+1. {[And]SP1 [we]T1 [have global celebrations]R1}P2 , 
+{[and]SP1 [we]T1 ['ve actually started to]R1/TR}P3 
+{[you know]SP1 , [we]T1 ['ve seen the worst of it]R1}P4 .
+1. [But]SP1 [maybe]SP2 [on that day]SP3 [we]T1 [also find that 
+{[the Greenland ice sheet]T1(P1.1) [is really melting unacceptably fast]R1(P1.1)}P1.1 , 
+{[[fast enough]T1(R1) [to put meters of sea level on the oceans in the next 100 years , 
+and remove some of the biggest cities from the map]R1(R1)]R1(P1.2)}P1.2]R1.
+1. [That]T1 ['s an absolutely possible scenario]R1 .
+2. [We]T1 [might decide at that point 
+[{[that]SP1(P1.1) [even though]SP2(P1.1) [geo-engineering]T1(P1.1) [was uncertain and morally unhappy]R1(P1.1)}P1.1]T1(R1), 
+[{[that]SP1(P1.2) [it]T1(P1.2) ['s a lot better than not geo-engineering]R1(P1.2)}P1.2]R1(R1)]R1 .
+1. [And]SP1 [that]T1 ['s a very different way to look at the problem]R1 .
+2. [It's using this as risk control, not instead of action]R1 .
+3. {[It's saying that 
+{you do some geo-engineering for a little while to take the worst of the heat off}P1.1]R1}P2, 
+{[not that]SP1 [you'd use it]T1 [as a substitute for action]R1]R1}P3.
+1. [But]SP1 [there is a problem with that view]R1 .
+2. [And]SP1 [the problem]T1 [is the following]R1 : 
+[knowledge that 
+{[geo-engineering]T1(P1.1) [is possible]R1(P1.1)}P1.1]T1 
+[[makes the climate impacts]T1(R1) [look less fearsome]R1(R1)]R1, 
+[and]SP1 [that]T1 [makes [a weaker commitment to]T1(R1) [cutting emissions today]R1(R1)]R1 .
+1. [This is what economists call]T1 [a moral hazard]R1.
+2. [And]SP1 [{[that]T1(P2) ['s one of the fundamental reasons]R1(P2)}P2]T1 
+[{[that]SP1(P3) [this problem]T1(P3) [is so hard to talk about]R1(P3)}P3]R1, 
+[and]SP1 , [in general]SP2 , [I think]SP3 
+[{it's the underlying reason}P4]T1 
+[{[that]SP1(P5) [it's been politically unacceptable]R1(P5) [to talk about this]T1(P5)}P5]R1 .
+1. [But]SP1 [you don't [make good policy]T1(R1) [by hiding things in a drawer]R1(R1)]R1 .
+2. [I]T1 ['ll leave you with three questions, and then one final quote]R1 .
+3. [Should we do serious research on this topic]R1 ?
+4. [Should we have a national research program 
+{[that]T1(P1.1) [looks at this]R1(P1.1)]R1 ?
+1. [Not just]SP1 [at how]R1-1 [you]T1 [would do it better]R1-2 , 
+[but also]SP1 [what]R1-1 [all the risks and downsides of it]T1 [are]R1-2.
+1. [Right now]SP1 , {[you have a few enthusiasts talking about it, some in a positive side, some in a negative side]R1}P2 
+{[but]SP1 [{[that]T1(P4) ['s a dangerous state to be in]R1(P4)}P4]T1 
+[{[because]SP1(P5) [there's very little depth of knowledge on this topic]R1(P5)}P5]R1}P3.
+1. [A very small amount of money]T1 [would get us some]R1 .
+2. [[Many of us maybe now me]T1(SP1) [think]R1(SP1)]SP1 
+[we]T1 [should do that]R1 . 
+[But]SP1 [I]T1 [have a lot of reservations]R1.
+1. [My reservations]T1 [are principally about the moral hazard problem]R1, 
+[and]SP1 [I]T1 [don't really know 
+{[how]T1(P2.1) [we can best avoid the moral hazard]R1(P2.1)}P2.1]R1 .
+1. {[I]T1 [think there is a serious problem]R1}P2 : 
+{[as you talk about this]SP1, 
+[people begin to think]SP2 
+[they]T1 [don't need to work so hard to cut emissions]R1}P3 .
+1. [Another thing is]T1, [maybe]SP1
+[{[we]T1 [need a treaty]R1}P2]R1.
+1. [A treaty 
+{[that]T1(P1.1) [decides 
+{[who]T1(P1.1.1) [gets to do this]R1(P1.1.1)}P1.1.1]R1(P1.1)}P1.1]R1.
+1. [Right now]SP1 [we]T1 [may think of 
+[a big, rich country like the US]T1(R1) [doing this]R1(R1)]R1 .
+1. [But]SP1 [it might well be that]T1 , [in fact]SP2, 
+[{[if]SP1(P2) [China]T1(P2) [wakes up in 2030 and realizes 
+{[that]SP1(P2.1) [the climate impacts]T1(P2.1) [are just unacceptable]R1(P2.1)}P2.1]R1(P2)}P2]SP3 , 
+[{[they]T1(P3) [may not be very interested in our moral conversations about how to do this]R1(P3),}P3 
+{[and]SP1(P4) [they]T1(P4) [may just decide 
+{[they]T1(P4.1) ['d really rather have a geo-engineered world than a non-geo-engineered world]R1(P4.1)}P4.1]R1(P4)}P4]R1 .
+1. [And]SP1 [we]T1 ['ll have no international mechanism to figure out 
+{[who makes]R1(P1.1) [the decision]T1(P1.1)}P1.1]R1(R1)]R1 .
+1. [So]SP1 [here's one last thought , 
+{[which]T1(2.1) [was said much, much better 25 years ago in the US National Academy report than 
+{[I]T1(P2.1.1) [can say today]R1(P2.1.1)}P2.1.1]R1(2.1)}P2.1]R1. 
+[And]SP1 [I]T1 [think 
+{[it]T1(P3.1) [really summarizes 
+{[where]SP1(P3.1.1) [we]T1(P3.1.1) [are here]R1(P3.1.1)}P3.1.1]R1(P3.1)}P3.1 .
+{[That]SP1(P3.2) [the CO2 problem, the climate problem 
+{[that]T1(P3.2.1) [we've heard about]R1(P3.2.1)}P3.2.1]T1(P3.2) , 
+[is driving lots of things innovations in the energy technologies 
+{[that]T1(P3.2.2) [will reduce emissions]R1(P3.2.2)}P3.2.2]R1(P3.2)}P3.2
+[but]SP1 [also]SP2, [I think]SP3 , [inevitably]SP4 , [it]T1 [will drive us towards thinking about climate and weather control]R1, 
+[{[whether]SP1(P5) [we]T1(P5) [like it or not]R1(P5)}P5]SP5 .
+1. [And]SP1 [it's time]T1 [to begin thinking about it]R1, 
+[{[even]SP1(P2) [if]SP2(P2) [the reason 
+{[we]T1(P2.1) ['re thinking about it]R1(P2.1)}P2.1]T1(P2) 
+[is to construct arguments for 
+{[why we shouldn't do]R1(P2.2) [it]T1(P2.2)}P2.2]R1(P2)}P2]SP2.
+1. [Thank you very much]R1 .
