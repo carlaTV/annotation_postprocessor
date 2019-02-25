@@ -5,11 +5,15 @@ import input_processor as ip
 def main():
     # initialize setup
     file_num = input('Which file do you want to process?\nEnter a number: ')
-    if file_num == "":
+    if file_num == 'default':
         file_num = '0192'
-    file_type = input('Select a file type to process:\n 1: "transcription", 2: "parser", 3: "annotation".\n')
+        file_type = '3'
+        annotator_name = 'Carla'
+    elif file_num == "":
+        file_num = '0192'
+        file_type = input('Select a file type to process:\n 1: "transcription", 2: "parser", 3: "annotation".\n')
+        annotator_name = input('What\'s your name?\n')
     file_type_dict = {'1': 'transcription', '2': 'parser', '3': 'annotation'}
-    annotator_name = input('What\'s your name?\n')
     annotator1 = ip.Annotator(annotator_name)
     file_to_open = file_type_dict[file_type]
 
