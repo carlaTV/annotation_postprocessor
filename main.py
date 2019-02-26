@@ -5,7 +5,7 @@ import input_processor as ip
 def main():
     # initialize setup
     file_num = input('Which file do you want to process?\nEnter a number: ')
-    if file_num == 'default':
+    if file_num == 'def':
         file_num = '0192'
         file_type = '3'
         annotator_name = 'Carla'

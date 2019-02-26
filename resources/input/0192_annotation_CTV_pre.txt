@@ -1,4 +1,4 @@
-﻿1. {[You]T1(P2) ['ve all seen lots of articles on climate change,]R1(P2)}P2 
+1 {[You]T1(P2) ['ve all seen lots of articles on climate change,]R1(P2)}P2
 {[and]SP1(P3) [here's yet another New York Times article, just like every other darn one 
 {[you]T1(P3.1) ['ve seen.]R1(P3.1)}P3.1]R1(P3)}P3
 2 [It]T1 [says all the same stuff as all the other ones {[you]T1(P1.1) ['ve seen.]R1(P1.1)}P1.1]R

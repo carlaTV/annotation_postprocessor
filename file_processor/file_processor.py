@@ -1,12 +1,16 @@
+import input_processor
+
 
 class FileManager:
-    def __init__(self, file_num, annotator_name):
+    def __init__(self, text_type, file_num, annotator_name):
         self.file_num = file_num
-        self.annotator_name = annotator_name
+        self.text_type = text_type
+        # self.annotator_name = annotator_name
+        self.annotator_id = input_processor.Text(text_type, file_num, annotator_name).annotator_initials[annotator_name]
         self.filename = None
 
-    def write_opening(self, title, extension):
-        self.filename = 'resources/output/%s_%s_%s.%s' % (self.file_num ,title, self.annotator_name, extension)
+    def write_opening(self, folder, title, extension):
+        self.filename = 'resources/%s/%s_%s_%s.%s' % (folder, self.file_num, title, self.annotator_id, extension)
         print('Saving results to %s' % self.filename)
         with open(self.filename, 'w') as f:
             f.write('')
