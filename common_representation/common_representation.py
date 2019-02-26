@@ -1,7 +1,7 @@
 """" get a common representation of all types of inputs"""
 import re
 import file_processor as fp
-
+from stack import stack as st
 
 class CommonReprGenerator:
     """converts any kind of text into common representation """
@@ -35,35 +35,45 @@ class CommonReprGenerator:
                 line = self.remove_trailing_spaces(line)
                 prop_counter = self.ensure_enumeration(line, prop_counter)
         else:
-            sent = ''
+            complete_sentence = ''
             sentence_list = []
-            sentence_dict = {}
+            stack = st.Stack()
             for num, line in enumerate(self.text):
                 if re.search(r'^\d', line):
-                    sentence = Sentence(line)
-                    sentence_list.append(sentence.sentence)
-                    sent = ''
-                    sent += line.strip() + ' '
+                    sentence_list.append(complete_sentence)
+                    complete_sentence = ''
+                    complete_sentence += line.strip() + ' '
                 else:
-                    sent += line.strip()+ ' '
+                    complete_sentence += line.strip() + ' '
+            sentence_list.remove("")
             for num, line in enumerate(sentence_list):
-                # print(line)
-                for n, word in enumerate(line.split(' ')):
-                    if re.search('{', word) and prop_open == False or n == 0:
-                        proposition.get_open_position(n, word)
-                        prop_open = True
-                    if re.search('}', word) or n == len(line.split(' ')) - 1:
-                        proposition.get_prop_tag(word)
-                        proposition.get_closing_position(num, word)
-                        proposition.get_words_in_proposition(word)
-                        # print(proposition.words_included)
-                        for w in proposition.words_included:
-                            print(w, proposition.prop_tag)
-                        prop_open = False
-                        proposition.reset_words_included()
-                        # print(proposition.open_word, '--->', proposition.close_word, 'tag: ', proposition.prop_tag)
-                    if prop_open == True:
-                        proposition.get_words_in_proposition(word)
+                sent = Sentence(line.rstrip())
+                sent.get_sent_id()
+                sent.get_sent_text()
+                # print(sent.sent_text, '-->', sent.sent_id)
+                for n, word in enumerate(sent.sent_text.split(' ')):
+                    for char in word:
+                        if char == '{':
+                            if stack.isEmpty():
+                                proposition.get_open_position(n, word)
+                            stack.push('{')
+                        if char == '}':
+                            stack.pop()
+                            if stack.isEmpty():
+                                proposition.get_closing_position(n, word)
+                                proposition.get_prop_tag(word)
+                                print(proposition.open_word, '--->', proposition.close_word, 'tag: ', proposition.prop_tag)
+                    # if re.search('{', word) and prop_open == False:
+                    #     proposition.get_open_position(n, word)
+                    #     prop_open = True
+                    # if re.search('}', word):
+                    #     proposition.get_prop_tag(word)
+                    #     proposition.get_closing_position(num, word)
+                    #     proposition.get_words_in_proposition(word)
+                    #     prop_open = False
+                    #     proposition.reset_words_included()
+                    # if prop_open == True:
+                    #     proposition.get_words_in_proposition(word)
         #             if re.search('\[', word) or re.search('\]', word):
         #                 w, tag = self.get_tag_and_word(word)
         #                 prop_number = prop_number
@@ -91,11 +101,6 @@ class CommonReprGenerator:
             line = line.lstrip()
             line = re.sub('^\n', ' ', line)
         return line
-
-    # def joint_lines(self, line):
-    #     if re.search('^\d\.', line):
-    #         final_line = ''
-    #         final_line
 
     def ensure_enumeration(self, line, prop_counter):
         if re.search(r"^\d*\.", line):
@@ -150,6 +155,10 @@ class Sentence:
     def get_sent_text(self):
         try:
             self.sent_text = re.sub(self.sent_id, '', self.sentence)
+            if re.search('^{', self.sent_text):
+                pass
+            else:
+                self.sent_text = '{' + self.sent_text + '}P1'
         except:
             self.sent_text = None
         return self.sent_text
